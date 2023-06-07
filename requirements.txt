@@ -1,4 +1,4 @@
-requests==2.21.0
+requests==2.31.0
 pyDownload==0.0.1.dev4
 PyYAML==5.1.2
 hurry.filesize==0.9
